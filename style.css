@@ -79,6 +79,7 @@ body{
     border-radius: 30px;
     padding:10px;
 }
+
 .sale-image{
     position:relative;
 }
@@ -86,7 +87,7 @@ body{
 .sale-image img{
     width:100%;
 }
-.sale-image__offer{
+.saleimage__offer{
     width:35%;
     border:solid black 2px;
     background-color: white;
